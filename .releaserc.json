@@ -1,5 +1,5 @@
 {
-  "branch": ["master", "next"],
+  "branch": ["main"],
   "preset": "conventionalcommits",
   "plugins": [
     [
