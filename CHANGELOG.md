@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/devmattrick/homebridge-smartrent/compare/v1.0.0...v1.0.1) (2022-11-26)
+
+
+### Bug Fixes
+
+* force public access in publish config ([84b93b4](https://github.com/devmattrick/homebridge-smartrent/commit/84b93b4455e5d6277ce36243bd2904245d8cb0bf))
+
 ## 1.0.0 (2022-11-26)
 
 
