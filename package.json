@@ -13,7 +13,8 @@
   "license": "Apache-2.0",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
-    "tag": "latest"
+    "tag": "latest",
+    "access": "public"
   },
   "author": "Matthew McCune",
   "repository": {
